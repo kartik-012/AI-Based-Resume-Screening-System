@@ -1,0 +1,35 @@
+CURRICULUM VITAE
+VIKRAM GUPTA
+Email: vikram.gupta@email.com | Phone: +91 89053 50686 | LinkedIn: linkedin.com/in/vikram-gupta | GitHub: github.com/vikramgupta
+
+PROFESSIONAL SUMMARY
+Results-driven Cybersecurity professional with 4.0 years of proven industry experience in developing scalable solutions, optimizing engineering workflows, and driving technical excellence. Adept at full lifecycle execution, continuous improvement, and cross-functional leadership.
+
+CORE COMPETENCIES & TECHNICAL SKILLS
+Technical Skills: SIEM, Penetration Testing, Firewalls, Network Security, OWASP Top 10, Vulnerability Assessment, Ethical Hacking, Wireshark, Agile / Scrum, Team Collaboration, Linux
+Methodologies: Agile, Scrum, Kanban, Sprint Planning, Code Reviews, Continuous Integration
+
+PROFESSIONAL EXPERIENCE
+Senior Cybersecurity Specialist | Swiggy | 2021 - Present
+- Spearheaded core architectural implementations and deployed production services utilized by 100K+ active users.
+- Collaborated across multi-functional squads to drive technical roadmaps, achieving 35% reduction in latency and 25% throughput gains.
+- Mentored junior engineers on best coding standards, clean architecture, and automated test-driven development.
+- Leveraged SIEM, Penetration Testing, and Firewalls to streamline enterprise delivery pipelines.
+
+Cybersecurity Associate | Razorpay | 2018 - 2021
+- Designed and maintained high-availability systems supporting critical business workflows.
+- Implemented robust monitoring, automated alerting, and reduced mean time to resolution (MTTR) by 40%.
+- Documented technical specifications, API contracts, and user manuals for cross-departmental alignment.
+- Utilized Network Security and OWASP Top 10 to automate legacy data processing modules.
+
+EDUCATION & CREDENTIALS
+B.Tech in Information Security | BITS Pilani | Graduated with Distinction
+Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Systems, Computer Networks.
+
+KEY PROJECTS & HIGHLIGHTS
+- Automated Enterprise Pipeline: Built an end-to-end framework leveraging SIEM and Penetration Testing yielding 50% operational cost efficiency.
+- High-Performance Microservice: Engineered resilient APIs with sub-50ms response times under peak production loads.
+
+CERTIFICATIONS
+- Certified Professional in Cybersecurity
+- Advanced Agile Practitioner Certification
