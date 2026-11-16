@@ -1,0 +1,5 @@
+Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1,Weighted_F1,CV_Mean_Accuracy,CV_Std
+Linear SVM (Calibrated),1.0,1.0,1.0,1.0,1.0,1.0,0.0
+Multinomial Naive Bayes,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+Random Forest,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0,0.0
