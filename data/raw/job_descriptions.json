@@ -1,0 +1,145 @@
+{
+    "Data Science": {
+        "role_title": "Senior Data Scientist",
+        "department": "Artificial Intelligence & Analytics",
+        "min_experience": 4.0,
+        "required_education": "Master's or Bachelor's in Computer Science, Data Science, or related field",
+        "required_skills": [
+            "Python",
+            "SQL",
+            "Scikit-learn",
+            "Pandas",
+            "NumPy",
+            "Data Visualization",
+            "Statistical Modeling"
+        ],
+        "preferred_skills": [
+            "PyTorch",
+            "TensorFlow",
+            "Tableau",
+            "BigQuery",
+            "MLflow",
+            "Docker"
+        ],
+        "jd_text": "We are seeking an experienced Senior Data Scientist to architect predictive analytics and machine learning solutions. You will extract actionable business insights from vast data repositories, design statistical models, and collaborate with engineering teams to deploy models into production. Required skills include Python, SQL, Scikit-learn, Pandas, statistical modeling, hypothesis testing, and data visualization. Hands-on experience with deep learning, PyTorch, or Docker is a strong plus."
+    },
+    "Machine Learning": {
+        "role_title": "Machine Learning Engineer",
+        "department": "Core AI Engineering",
+        "min_experience": 3.0,
+        "required_education": "B.Tech/M.Tech/M.S. in Computer Science, AI, or equivalent",
+        "required_skills": [
+            "Python",
+            "PyTorch",
+            "TensorFlow",
+            "Deep Learning",
+            "NLP",
+            "Docker",
+            "REST APIs"
+        ],
+        "preferred_skills": [
+            "Transformers",
+            "HuggingFace",
+            "MLflow",
+            "Kubernetes",
+            "CUDA",
+            "Computer Vision"
+        ],
+        "jd_text": "Join our AI team as a Machine Learning Engineer to design, train, and optimize state-of-the-art deep learning models for production scale. You will work on natural language processing, computer vision, and transformer architectures. Strong programming in Python, PyTorch or TensorFlow, containerization with Docker, and building resilient model-serving APIs are mandatory."
+    },
+    "Web Development": {
+        "role_title": "Lead Full Stack Web Developer",
+        "department": "Web Engineering",
+        "min_experience": 5.0,
+        "required_education": "Bachelor's in Computer Science or Software Engineering",
+        "required_skills": [
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "Node.js",
+            "Next.js",
+            "PostgreSQL",
+            "HTML5",
+            "CSS3"
+        ],
+        "preferred_skills": [
+            "GraphQL",
+            "Tailwind CSS",
+            "Docker",
+            "Redis",
+            "Redux",
+            "AWS"
+        ],
+        "jd_text": "Looking for a passionate Lead Full Stack Web Developer proficient in modern frontend and backend architectures. You will lead the development of enterprise web applications using React, Next.js, Node.js, TypeScript, and relational databases. Must possess deep expertise in responsive web design, RESTful APIs, state management, and high-performance server-side rendering."
+    },
+    "DevOps & Cloud": {
+        "role_title": "Senior DevOps & Cloud Architect",
+        "department": "Infrastructure & Reliability",
+        "min_experience": 4.0,
+        "required_education": "Bachelor's in Computer Science, IT, or equivalent experience",
+        "required_skills": [
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "Terraform",
+            "CI/CD",
+            "Jenkins",
+            "Linux",
+            "Bash Scripting"
+        ],
+        "preferred_skills": [
+            "Ansible",
+            "Prometheus",
+            "Grafana",
+            "Helm",
+            "Azure",
+            "GCP"
+        ],
+        "jd_text": "Seeking a Senior DevOps & Cloud Architect to automate and secure our cloud infrastructure. You will manage container orchestration with Kubernetes, implement Infrastructure as Code via Terraform, maintain zero-downtime CI/CD deployment pipelines, and optimize cloud costs across AWS. Strong Linux systems administration and bash scripting are essential."
+    },
+    "Java Development": {
+        "role_title": "Principal Java Microservices Engineer",
+        "department": "Backend Platform Engineering",
+        "min_experience": 5.0,
+        "required_education": "B.Tech / M.Tech in Computer Science or related discipline",
+        "required_skills": [
+            "Java",
+            "Spring Boot",
+            "Microservices",
+            "Hibernate",
+            "REST APIs",
+            "MySQL",
+            "Kafka"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "JUnit",
+            "Multithreading",
+            "Design Patterns"
+        ],
+        "jd_text": "We are looking for a Principal Java Developer to design scalable distributed microservices handling millions of daily transactions. Must possess deep mastery over Java, Spring Boot, Hibernate, Kafka event streaming, and relational database systems. Experience with multi-threading, concurrency, and cloud-native deployments is strongly required."
+    },
+    "Cybersecurity": {
+        "role_title": "Information Security & SOC Analyst",
+        "department": "Information Security & Governance",
+        "min_experience": 3.0,
+        "required_education": "B.Tech in CS/Cybersecurity or recognized industry certifications (CISSP, CEH)",
+        "required_skills": [
+            "Network Security",
+            "Penetration Testing",
+            "SIEM",
+            "Wireshark",
+            "Vulnerability Assessment",
+            "Firewalls"
+        ],
+        "preferred_skills": [
+            "Metasploit",
+            "Incident Response",
+            "OWASP Top 10",
+            "SOC Analysis",
+            "Cryptography"
+        ],
+        "jd_text": "Seeking an Information Security Analyst to safeguard enterprise networks and digital assets. Responsible for conducting penetration tests, managing SIEM alerts, vulnerability assessments, and threat intelligence analysis. Strong knowledge of firewalls, Wireshark, OWASP security principles, and incident response frameworks required."
+    }
+}
